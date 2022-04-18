@@ -1,0 +1,15 @@
+.letrero{
+   color: white;
+   margin-top: 2%;
+   text-align: center;
+   text-shadow:
+		0 0 5px rgba(167, 28, 156,1),
+		0 0 10px rgba(167, 28, 156,1),
+		0 0 20px rgba(167, 28, 156,1),
+		0 0 40px rgba(167, 28, 156,1),
+		0 0 80px rgba(167, 28, 156,1),
+		0 0 90px rgba(167, 28, 156,1),
+		0 0 100px rgba(167, 28, 156,1),
+		0 0 140px rgba(167, 28, 156,1),
+		0 0 180px rgba(167, 28, 156,1);
+}
